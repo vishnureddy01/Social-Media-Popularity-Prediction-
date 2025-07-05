@@ -20,10 +20,10 @@ By avoiding engagement data (likes, shares), the model aims to make unbiased pre
 
 ## 📁 Project Structure
 📂 social-media-popularity-prediction
-├── data/ # Sample or cleaned datasets
-├── notebooks/ # Jupyter notebooks with EDA and model training
+├── Scripts/ # data
+├── Templates/ # Html Codes
 ├── src/ # Source code (data preprocessing, model training)
-├── requirements.txt # Python dependencies
+├── sql file # sql files
 └── README.md # Project documentation
 
 ## 🛠️ Tech Stack
