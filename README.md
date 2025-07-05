@@ -45,6 +45,7 @@ By avoiding engagement data (likes, shares), the model aims to make unbiased pre
 
 ## 📬 Contact
 
+Created by [@vishnureddy01](https://github.com/vishnureddy01)  
 For questions or suggestions, feel free to open an issue or reach out.
 
 ---
